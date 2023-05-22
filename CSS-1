@@ -1,8 +1,13 @@
 body {
-  background-color: linen;
+  background-color: lightblue;
 }
 
 h1 {
-  color: maroon;
-  margin-left: 40px;
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
 }
