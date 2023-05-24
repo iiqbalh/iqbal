@@ -1,1 +1,79 @@
-halo
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>My website</title>
+        <link rel="stylesheet" href="CSS-day1">
+    </head>
+    <body>
+
+        <div class="container">
+
+            <header>My website</header>
+
+            <nav>
+                <ul>
+                    <li><a href="">home</a></li>
+                    <li><a href="">about</a></li>
+                    <li><a href="">contact</a></li>
+                    <li><a href="">insta</a></li>
+                    <li><a href="">twitter</a></li>
+                </ul>
+            </nav>
+            
+            <div class="grid-1">
+            <section>
+                <div>
+                    <h2>day-1</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium nulla cumque voluptate, pariatur magnam similique!</p>
+                </div>
+    
+                <div>
+                    <h2>day-2</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam quia cupiditate nesciunt iste, deserunt unde!</p>
+                </div>
+    
+                <div>
+                    <h2>day-3</h2>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam numquam eum exercitationem nihil hic consectetur.</p>
+                </div>
+            </section>
+
+            <main>
+                <h1>hello word</h1>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquam harum soluta impedit enim laudantium voluptates vero, illum sit dolorum quo? Amet error libero fugit, obcaecati officiis suscipit, nesciunt quod expedita placeat ab id dolorum numquam aut saepe rem voluptates doloremque modi iusto dolorem et quos, in labore non voluptas! Id?</p>
+            </main>
+            </div>
+
+            <section>
+                <div>
+                    <h2>who?</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum incidunt est aspernatur numquam ratione earum!</p>
+                </div>
+
+                <div>
+                    <h2>what?</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque optio, necessitatibus eligendi laboriosam ipsam ullam.</p>
+                </div>
+
+                <div>
+                    <h2>which?</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit asperiores modi dolore accusamus voluptatum animi!</p>
+                </div>
+
+                <div>
+                    <h2>how?</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam harum dolorum, rerum tenetur veritatis vitae?</p>
+                </div>
+            </section>
+
+            <footer>footer</footer>
+
+        </div>
+
+
+    <script src="htnl-day1"> </script>
+    </body>
+</html>
