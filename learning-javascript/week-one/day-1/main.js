@@ -1,1 +1,1 @@
-cosole.log('my website')
+cosole.log('my website');
