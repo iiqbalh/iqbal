@@ -1,1 +1,1 @@
-cosole.log('my website');
+console.log('my website');
