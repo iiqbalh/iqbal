@@ -1,3 +1,3 @@
 let myFirstName = "mochamad";
-let myMiddLename = "mochamad";
-let myLastName = "mochamad";
+let myMiddLename = "iqbal";
+let myLastName = "hernadi";
