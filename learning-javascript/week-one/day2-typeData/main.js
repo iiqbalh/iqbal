@@ -16,3 +16,8 @@ let c = 6;
 
 document.getElementById("demo1").innerHTML =
 (a == b) + "<br>" + (a == c);
+
+function firstTime(){
+    alert('hello word');
+}
+firstTime();
