@@ -29,3 +29,20 @@ switch(Text){
         default:
             alert('anda bukan siapa siapa!')        
 }
+
+// jika number 1 + number 2 = 8 maka perhitungannya benar
+// jika tidak perhitungannya salah
+
+let num1 = 4;
+let num2 = 4;
+
+
+if(num1 += num2 = 8){
+    console.log('benar');
+}else{
+    console.log('salah');
+}
+
+
+num1 += num2 // num1 = num1 + num2
+console.log(num1)
