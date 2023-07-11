@@ -26,6 +26,10 @@
 
 // document.getElementById("demo6").innerHTML = text3;
 
+
+
+
+
 // let text4 = "a,b,c,d,e,f";
 // const myArray = text4.split(",");
 // document.getElementById("demo7").innerHTML = myArray[2];
@@ -34,17 +38,6 @@
 
 // let text = "hari ini, saya sedang belajar array metode"
 // let mixed = text.split(" ")
-
-// console.log(countries.length);
-// console.log(mixed.length - 1)
-
-// const shoppingCart = ['Milk', 'Coffee', 'Tea', 'Honey'];
-
-// shoppingCart.unshift('meat');
-// shoppingCart.push('sugar');
-// delete shoppingCart[4];
-// shoppingCart[3] = 'green tea';
-// console.log(shoppingCart);
 
 
 // const countries = [
@@ -60,6 +53,18 @@
 //   'Japan',
 //   'Kenya'
 // ];
+
+// console.log(countries.length);
+// console.log(mixed.length - 1)
+
+// const shoppingCart = ['Milk', 'Coffee', 'Tea', 'Honey'];
+
+// shoppingCart.unshift('meat');
+// shoppingCart.push('sugar');
+// delete shoppingCart[4];
+// shoppingCart[3] = 'green tea';
+// console.log(shoppingCart);
+
 
 // const webTechs = [
 //   'HTML',
@@ -78,6 +83,9 @@
 // console.log(countries);
 
 
+
+// EXERCISE 4
+
 // const frontEnd = ['HTML', 'CSS', 'JS', 'React', 'Redux'];
 // const backEnd = ['Node','Express', 'MongoDB'];
 // const fullStack = frontEnd.concat(backEnd);
@@ -90,23 +98,27 @@
 //   console.log(`${i} * ${i} = ${i * i}`)
 // }
 
-let arr = [];
-let sum = 0;
-let sum2 = 0;
 
-for(let i = 0; i <= 100; i++){
-  if(i % 2 === 0){
-    sum += i
-  }
-}
 
-for(let i = 0; i <= 100; i++){
-  if(i % 2 === 1){
-    sum2 += i
-  }
-}
 
-arr.push(sum)
-arr.push(sum2)
 
-console.log(arr);
+// let arr = [];
+// let sum = 0;
+// let sum2 = 0;
+
+// for(let i = 0; i <= 100; i++){
+//   if(i % 2 === 0){
+//     sum += i
+//   }
+// }
+
+// for(let i = 0; i <= 100; i++){
+//   if(i % 2 === 1){
+//     sum2 += i
+//   }
+// }
+
+// arr.push(sum)
+// arr.push(sum2)
+
+// console.log(arr);

@@ -61,17 +61,6 @@
 // 	// console.log('ganjil; ', gan);
 // }
 
-// function fullName(firtName, lastName) {
-// 	// return `${firtName} ${lastName}`
-// 	console.log(firtName + ' ' + lastName)
-// }
-// const num = 6
-// // bilangan(num);
-// // console.log(fullName('iqbal', 'hernadi'));
-// // const result = fullName('iqbal', 'hernadi')
-// // console.log(result)
-
-// fullName('iqbal', 'hernadi')
 
 // const readline = require('readline').createInterface({
 //   input: process.stdin,
@@ -85,7 +74,6 @@
 // 	let arr2 = [];
 
 // 	if (num % 2 === 0) {
-// 		// console.log('You are old enough to drive.')
 // 		for(let i = 1; i <= angka; i++){
 // 			if (i % 2 === 0){
 // 			arr.push(i);
@@ -95,7 +83,6 @@
 // 	}
 
 // 	if (num % 2 === 1) {
-// 		// console.log(`You are left with ${18 - num} years to drive.`)
 // 		for(let i = 1; i <= angka; i++){
 // 			if (i % 2 === 1){
 // 			arr2.push(i);
@@ -106,6 +93,33 @@
 
 //   readline.close();
 // });
+
+//EXERCISES 1
+
+// const readline = require('readline').createInterface({
+//   input: process.stdin,
+//   output: process.stdout
+// });
+
+// readline.question('Enter your age: ', txt => {
+
+//     let num = 18;
+
+//     if(num <= txt){
+//         console.log(`You are ${txt} old enough to drive.`)
+//     }
+
+//     if(num > txt){
+//         console.log(`You are left with ${num - txt} years to drive.`)
+//     }
+
+//   readline.close();
+// });
+
+
+
+
+//EXERCISES 2
 
 // const readline = require('readline').createInterface({
 //   input: process.stdin,
